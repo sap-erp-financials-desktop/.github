@@ -17,8 +17,8 @@ Run the `.exe` file to start the application.
 ## 📸 Overview
 A quick look at key parts in action:
 
-![Main Dashboard](https://blog.focustribes.com/hs-fs/hubfs/SAP%20FICO-1.jpg?width=860&height=484&name=SAP%20FICO-1.jpg)  
-![Financial Reports](https://blog.sap-press.com/hs-fs/hubfs/image-png-May-10-2024-12-45-37-2922-PM.png?width=964&height=701&name=image-png-May-10-2024-12-45-37-2922-PM.png)    
+![Main Dashboard](https://community.sap.com/legacyfs/online/storage/blog_attachments/2017/07/img6.png)  
+![Financial Reports](https://www.erpfocus.com/pictures/5160/show/800x500/SAP+ERP+Screenshot+5.jpg?sh=b1db90786e3d770e)    
 
 ---
 
